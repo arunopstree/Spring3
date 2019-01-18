@@ -7,7 +7,7 @@
 
 	<scm>
 		<developerConnection>
-			scm:git:git@gitlab.com:sudipt/spring3hibernateapp.git
+		git@github.com:SudiptSharma/spring3hibernateApp.git
 		</developerConnection>
 	  <tag>HEAD</tag>
   </scm>
